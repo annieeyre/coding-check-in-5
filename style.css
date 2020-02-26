@@ -1,10 +1,33 @@
-/* your CSS goes into this file. For example:
-
-p {
-  color: #ff00ff;
-  text-decoration: underline;
+h1 {
+    font-family: cursive;
 }
 
-btw, this is a CSS comment. Feel free to delete it.
+h2 {
+    font-family: cursive;
+    font-size: 500;
+}
+h3 {
+    font-family: cursive;
+    font-weight: 50;
+    font-size: 300;
+}
 
- */
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.loaf-fig-cake {
+    color: darkgoldenrod;
+}
+
+.dark-part {
+    color: purple;
+}
+
+.sugar-cookies {
+    color: sandybrown;
+}
